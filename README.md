@@ -1,3 +1,6 @@
+# Preparation
+Do local install of SWTChart via `mvn clean install`
+
 # Build
 
 Command: `mvn clean verify -Dosgi.platform=YOUR_WS.YOUR_OS.YOUR_ARCH` 
